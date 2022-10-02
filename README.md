@@ -15,5 +15,3 @@
   <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
-
-Apaixonado por tecnologia, hoje possuo o foco de desenvolver aplicações com a finalidade de gerar dados de alto valor para tomada de decisão.
